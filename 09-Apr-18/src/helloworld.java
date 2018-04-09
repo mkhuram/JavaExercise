@@ -1,0 +1,13 @@
+//Exercise one
+/*HELLO WORLD!
+Output “Hello World!” to the console via a System.out.println() statement in
+your main method.*/
+
+public class helloworld {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello World!");
+	}
+
+}
